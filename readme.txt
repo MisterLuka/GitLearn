@@ -1,1 +1,2 @@
-Git I love you
+I love you haha
+git status
